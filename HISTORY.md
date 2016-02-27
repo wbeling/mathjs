@@ -39,6 +39,7 @@
   numbers. See #525, #482, #567.
 - Implemented support for JSON objects in the expression parser and the
   function `math.format`.
+- Implemented function `withConfig`.
 - Command line interface:
   - Outputs the variable name of assignments.
   - Fixed not rounding BigNumbers to 14 digits like numbers.
